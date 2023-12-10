@@ -14,7 +14,7 @@ Explored a specific category (video games Category).
 
 Web Scraping:
 Utilized web scraping to extract relevant data from the chosen website.
-Identified unique HTML attributes associated with the desired data points (e.g., product name, price, rating).
+Identified unique HTML attributes associated with the desired data points (e.g., product name, price, review score).
 
 Data Processing:
 Stored the scraped data into a Pandas DataFrame for efficient manipulation and analysis.
