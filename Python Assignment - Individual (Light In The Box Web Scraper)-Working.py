@@ -1,3 +1,4 @@
+# Python Assignment - Individual (MSDA/CDA104 PYTHON FOR DATA SCIENCE)
 #!/usr/bin/env python
 # coding: utf-8
 # Scraping Light in The Box Website - Using BeautifulSoup
